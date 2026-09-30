@@ -30,5 +30,3 @@ Weekly breach report by week, resolving agent, historical shift; channel summary
 ## AI and cost disclosure
 The optional OpenAI summary sends aggregate metrics only, not ticket-level data. If you do not enter an API key, the app uses a deterministic summary. In your submission, disclose the tools you actually used and the actual API cost, if any.
 
-## Submission form
-Add the original `submission-form.md` from the assignment pack and complete its exact fields. It was not present in the available files when this starter was created; do not submit an invented replacement form.
